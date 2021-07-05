@@ -1,0 +1,32 @@
+h1{
+    color: blue;
+    font-size: 90px;
+}
+.image{
+    height: 480;
+    width: 320px;
+}
+@media (max-width: 575px) {
+    body {
+      background-color: yellow;
+    }
+  }
+  @media (max-width: 575px) {
+    figure {
+      display: none;
+    }
+  }
+
+  @media (max-width: 575px) {
+    img {
+      height: 480px;
+      width: 320px;
+    }
+    h1{
+        color: red;
+        font-size: 30px;
+    }
+    main{
+        margin-top: 10px;;
+    }
+  }

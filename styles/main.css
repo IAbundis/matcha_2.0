@@ -1,0 +1,17 @@
+body {
+  font-family: arial, helvetica, sans-serif;
+}
+
+h1 {
+  color: blue;
+}
+
+p {
+  color: red;
+}
+
+.color p {
+  color: #ffffff;
+}
+
+/*# sourceMappingURL=main.css.map */
